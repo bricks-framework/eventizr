@@ -1,0 +1,23 @@
+{
+  "name": "bricks-framework/eventizr",
+  "type": "bricks-framework",
+  "version": "0.1.0",
+  "description": "Bricks",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Sven Ullmann",
+      "email": "kontakt@sumedia-webdesign.de"
+    }
+  ],
+  "require": {
+    "php": "^7.3",
+    "laminas/laminas-code": "^3",
+    "laminas/laminas-config": "^3",
+    "laminas/laminas-filter": "^2"
+  },
+  "autoload": {
+    "classmap": ["lib/"]
+  }
+}
