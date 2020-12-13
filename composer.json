@@ -3,7 +3,8 @@
   "type": "bricks-framework",
   "version": "0.1.0",
   "description": "Bricks",
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "license": "proprietary",
   "authors": [
     {
